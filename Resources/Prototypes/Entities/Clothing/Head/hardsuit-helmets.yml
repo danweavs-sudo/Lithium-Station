@@ -190,7 +190,7 @@
   description: A sturdy helmet designed for complex industrial operations in space.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Hardsuits/spatiohelm.rsi
+    sprite: _Funkystation/Clothing/Head/Hardsuits/spatiohelm.rsi
     layers:
     - state: icon
       map: [ "enum.ToggleableVisuals.Layer" ]
@@ -279,9 +279,9 @@
   description: A special helmet designed for work in a hazardous, low pressure environment. Has reinforced plating for wildlife encounters and dual floodlights.
   components:
   - type: Sprite
-    sprite: Clothing/Head/Hardsuits/salvage.rsi
+    sprite: _Funkystation/Clothing/Head/Hardsuits/salvage.rsi
   - type: Clothing
-    sprite: Clothing/Head/Hardsuits/salvage.rsi
+    sprite: _Funkystation/Clothing/Head/Hardsuits/salvage.rsi
   - type: PressureProtection
     highPressureMultiplier: 0.525
     lowPressureMultiplier: 1000
@@ -641,9 +641,9 @@
   categories: [ DoNotMap ]
   components:
   - type: Sprite
-    sprite: Clothing/Head/Hardsuits/luxury.rsi
+    sprite: _Funkystation/Clothing/Head/Hardsuits/luxury.rsi
   - type: Clothing
-    sprite: Clothing/Head/Hardsuits/luxury.rsi
+    sprite: _Funkystation/Clothing/Head/Hardsuits/luxury.rsi
   - type: PressureProtection
     highPressureMultiplier: 0.525
     lowPressureMultiplier: 1000
